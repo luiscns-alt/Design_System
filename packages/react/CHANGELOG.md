@@ -1,5 +1,11 @@
 # @luis-ui/react
 
+## 5.0.0
+
+### Major Changes
+
+- add new color
+
 ## 4.0.0
 
 ### Major Changes
