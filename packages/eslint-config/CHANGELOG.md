@@ -1,5 +1,11 @@
 # @luis-ui/eslint-config
 
+## 4.0.0
+
+### Major Changes
+
+- fix import storybook
+
 ## 3.0.0
 
 ### Major Changes

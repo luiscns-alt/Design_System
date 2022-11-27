@@ -1,5 +1,11 @@
 # @luis-ui/tokens
 
+## 4.0.0
+
+### Major Changes
+
+- fix import storybook
+
 ## 3.0.0
 
 ### Major Changes
